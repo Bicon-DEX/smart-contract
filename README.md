@@ -2,6 +2,8 @@
 
 Bicon DEX is being designed to be used on many different blockchains in order to provide the experience that each of the blockchains below can provide in their native chain.
 
+### Below, each blockchain and its bicon dex smart contract main file
+
 * Ethereum: bicondex-ethereum.sol
 * Binance Smart Chain: bicondex-bsc.sol
 * Internet Computer: bicondex-icp.mo
